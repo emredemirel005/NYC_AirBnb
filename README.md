@@ -17,4 +17,3 @@ Is there any noticeable difference of traffic among different areas and what cou
 
 [Streamlit Demo](https://nyc-airbnb.streamlit.app/)
 
-<p><a href="https://nyc-airbnb.streamlit.app/">You can chech the streamlit app</a></p>
