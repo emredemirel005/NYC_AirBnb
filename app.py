@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
+st.set_page_config(page_title='NYC Airbnb', page_icon=':wave:')
 
 def plot_scatter(x,y,hue:None):
     plt.figure(figsize=(10,6))
