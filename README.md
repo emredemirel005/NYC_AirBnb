@@ -15,5 +15,6 @@ What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
-## Streamlit Demo app
-<p><a href="https://plant-pathology.streamlit.app/">You can chech the streamlit app</a></p>
+[Streamlit Demo](https://nyc-airbnb.streamlit.app/)
+
+<p><a href="https://nyc-airbnb.streamlit.app/">You can chech the streamlit app</a></p>
